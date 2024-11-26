@@ -1,0 +1,117 @@
+Plausibilite_FIPS = {
+    "[10%, 20%]": {
+        "FIPS_Iris": 0.46,
+        "FIPS_balance_scale": 0.02,
+        "FIPS_AP": 0.75,
+        "FIPS_BK": 0.21
+    },
+    "[15%, 25%]": {
+        "FIPS_Iris": 0.44,
+        "FIPS_balance_scale": 0.01,
+        "FIPS_AP": 0.74,
+        "FIPS_BK": 0.17
+    },
+    "[20%, 30%]": {
+        "FIPS_Iris": 0.41,
+        "FIPS_balance_scale": 0.01,
+        "FIPS_AP": 0.71,
+        "FIPS_BK": 0.15
+    },
+    "[25%, 35%]": {
+        "FIPS_Iris": 0.41,
+        "FIPS_balance_scale": 0.01,
+        "FIPS_AP": 0.67,
+        "FIPS_BK": 0.10
+    },
+    "[30%, 40%]": {
+        "FIPS_Iris": 0.38,
+        "FIPS_balance_scale": 0.01,
+        "FIPS_AP": 0.65,
+        "FIPS_BK": 0.10
+    },
+    "[35%, 45%]": {
+        "FIPS_Iris": 0.35,
+        "FIPS_balance_scale": 0.009,
+        "FIPS_AP": 0.60,
+        "FIPS_BK": 0.08
+    },
+    "[40%, 50%]": {
+        "FIPS_Iris": 0.32,
+        "FIPS_balance_scale": 0.006,
+        "FIPS_AP": 0.57,
+        "FIPS_BK": 0.06
+    },
+    "[45%, 55%]": {
+        "FIPS_Iris": 0.29,
+        "FIPS_balance_scale": 0.006,
+        "FIPS_AP": 0.51,
+        "FIPS_BK": 0.05
+
+    }
+}
+
+
+
+
+NB_Tirages_FIPS = {
+    "[10%, 20%]": {
+        "Nitrages_FIPS_Iris": 36414,
+        "Nitrages_FIPS_balance_scale": 29468,
+        "Nitrages_FIPS_AP": 33363,
+        "Nitrages_FIPS_BK": 48384
+    },
+    "[15%, 25%]": {
+        "Nitrages_FIPS_Iris": 37890,
+        "Nitrages_FIPS_balance_scale": 34716,
+        "Nitrages_FIPS_AP": 51386,
+        "Nitrages_FIPS_BK": 99743
+    },
+    "[20%, 30%]": {
+        "Nitrages_FIPS_Iris": 48293,
+        "Nitrages_FIPS_balance_scale": 50540,
+        "Nitrages_FIPS_AP": 85683,
+        "Nitrages_FIPS_BK": 196456
+    },
+    "[25%, 35%]": {
+        "Nitrages_FIPS_Iris": 56630,
+        "Nitrages_FIPS_balance_scale": 65709,
+        "Nitrages_FIPS_AP": 134221,
+        "Nitrages_FIPS_BK": 385209
+    },
+    "[30%, 40%]": {
+        "Nitrages_FIPS_Iris": 80078,
+        "Nitrages_FIPS_balance_scale": 75528,
+        "Nitrages_FIPS_AP": 266496,
+        "Nitrages_FIPS_BK": 634434
+    },
+    "[35%, 45%]": {
+        "Nitrages_FIPS_Iris": 96857,
+        "Nitrages_FIPS_balance_scale": 112416,
+        "Nitrages_FIPS_AP": 544473,
+        "Nitrages_FIPS_BK": 1258504
+    },
+    "[40%, 50%]": {
+        "Nitrages_FIPS_Iris": 156495,
+        "Nitrages_FIPS_balance_scale": 213383,
+        "Nitrages_FIPS_AP": 1294665,
+        "Nitrages_FIPS_BK": 2745518
+    },
+    "[45%, 55%]": {
+        "Nitrages_FIPS_Iris": 233348,
+        "Nitrages_FIPS_balance_scale": 168498,
+        "Nitrages_FIPS_AP": 2704334,
+        "Nitrages_FIPS_BK": 5926139
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,32 @@
+rand_ip_dict = {
+    'AP': 0.15,
+    'balance-scale': 0.38,
+    'BK': 0.11,
+    'cancer': 0.007,
+    'CH': 0.05,
+    'diabetes': 0.09,
+    'glass': 0.02,
+    'heart': 0.03,
+    'Iris': 0.30,
+    'NT': 0.40,
+    'LW': 0.10,
+    'sonar': 0.002,
+    'yacht': 0.14
+}
+
+ip_dict = {
+    'AP': 0.65,
+    'balance-scale': 0.12,
+    'BK': 0.41,
+    'cancer': 0.07,
+    'CH': 0.51,
+    'diabetes': 0.68,
+    'glass': 0.29,
+    'heart': 0.51,
+    'Iris': 0.72,
+    'NT': 0.50,
+    'LW': 0.75,
+    'sonar': 4.4E-4,
+    'yacht': 0.51
+}
+

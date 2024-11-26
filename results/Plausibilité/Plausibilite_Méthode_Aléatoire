@@ -1,0 +1,107 @@
+Plausibilite_Random = {
+    "[10%, 20%]": {
+        "Random_Iris": 0.53,
+        "Random_balance_scale": 0.02,
+        "Random_AP": 0.81,
+        "Random_BK": 0.24
+    },
+    "[15%, 25%]": {
+        "Random_Iris": 0.50,
+        "Random_balance_scale": 0.02,
+        "Random_AP": 0.79,
+        "Random_BK": 0.19
+    },
+    "[20%, 30%]": {
+        "Random_Iris": 0.49,
+        "Random_balance_scale": 0.01,
+        "Random_AP": 0.75,
+        "Random_BK": 0.15
+    },
+    "[25%, 35%]": {
+        "Random_Iris": 0.46,
+        "Random_balance_scale": 0.01,
+        "Random_AP": None,
+        "Random_BK": None
+    },
+    "[30%, 40%]": {
+        "Random_Iris": 0.40,
+        "Random_balance_scale": 0.01,
+        "Random_AP": None,
+        "Random_BK": None
+    },
+    "[35%, 45%]": {
+        "Random_Iris": 0.38,
+        "Random_balance_scale": 0.009,
+        "Random_AP": None,
+        "Random_BK": None
+    },
+    "[40%, 50%]": {
+        "Random_Iris": 0.35,
+        "Random_balance_scale": 0.006,
+        "Random_AP": None,
+        "Random_BK": None
+    },
+    "[45%, 55%]": {
+        "Random_Iris": 0.30,
+        "Random_balance_scale": 0.006,
+        "Random_AP": None,
+        "Random_BK": None
+    }
+}
+
+
+
+
+NB_Tirage_Random = {
+    "[10%, 20%]": {
+        "Nitrages_Random_Iris": 137358,
+        "Nitrages_Random_balance_scale": 61312,
+        "Nitrages_Random_AP": 684225,
+        "Nitrages_Random_BK": 724039
+    },
+    "[15%, 25%]": {
+        "Nitrages_Random_Iris": 233349,
+        "Nitrages_Random_balance_scale": 117755,
+        "Nitrages_Random_AP": 2359376,
+        "Nitrages_Random_BK": 2388310
+    },
+    "[20%, 30%]": {
+        "Nitrages_Random_Iris": 432804,
+        "Nitrages_Random_balance_scale": 241675,
+        "Nitrages_Random_AP": 7060875,
+        "Nitrages_Random_BK": 6623027
+    },
+    "[25%, 35%]": {
+        "Nitrages_Random_Iris": 676717,
+        "Nitrages_Random_balance_scale": 414727,
+        "Nitrages_Random_AP": None,
+        "Nitrages_Random_BK": None
+    },
+    "[30%, 40%]": {
+        "Nitrages_Random_Iris": 1252166,
+        "Nitrages_Random_balance_scale": 622205,
+        "Nitrages_Random_AP": None,
+        "Nitrages_Random_BK": None
+    },
+    "[35%, 45%]": {
+        "Nitrages_Random_Iris": 1936347,
+        "Nitrages_Random_balance_scale": 1070125,
+        "Nitrages_Random_AP": None,
+        "Nitrages_Random_BK": None
+    },
+    "[40%, 50%]": {
+        "Nitrages_Random_Iris": 3736321,
+        "Nitrages_Random_balance_scale": 2697662,
+        "Nitrages_Random_AP": None,
+        "Nitrages_Random_BK": None
+    },
+    "[45%, 55%]": {
+        "Nitrages_Random_Iris": 6459789,
+        "Nitrages_Random_balance_scale": 2306784,
+        "Nitrages_Random_AP": None,
+        "Nitrages_Random_BK": None
+    }
+}
+
+
+
